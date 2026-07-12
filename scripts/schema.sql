@@ -1,0 +1,12 @@
+CREATE DATABASE IF NOT EXISTS social_metrics
+    CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+USE social_metrics;
+
+CREATE TABLE IF NOT EXISTS tweets (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    text TEXT NOT NULL,
+    positive TINYINT(1) NOT NULL DEFAULT 0,
+    negative TINYINT(1) NOT NULL DEFAULT 0,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
