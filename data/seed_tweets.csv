@@ -1,0 +1,73 @@
+text,positive,negative
+"J'adore mon nouveau téléphone, meilleur achat de l'année !",1,0
+"Service client catastrophique, jamais vu ça.",0,1
+"Super soirée concert hier, quel pied !",1,0
+"Mon vol a été annulé sans aucune explication, c'est inadmissible.",0,1
+"La nouvelle mise à jour est beaucoup plus rapide, bravo à l'équipe !",1,0
+"Très déçu par ce restaurant, plat froid et service lent.",0,1
+"Je viens d'être promu au travail, tellement reconnaissant !",1,0
+"Embouteillages monstres aujourd'hui, deux heures perdues.",0,1
+"Ce livre a complètement changé ma façon de voir les choses, je recommande.",1,0
+"Expérience terrible avec cette compagnie aérienne, bagages perdus encore.",0,1
+"Beau soleil et bons amis, la vie est belle.",1,0
+"Mon colis est arrivé cassé et le SAV ignore mes messages.",0,1
+"Bravo à toute l'équipe pour cette nouvelle fonctionnalité !",1,0
+"Le personnel a été extrêmement impoli avec moi aujourd'hui.",0,1
+"Motivé à bloc après cette séance de sport, prêt pour la journée !",1,0
+"Le film était vraiment décevant, scénario incompréhensible.",0,1
+"Si fier de ma sœur qui vient d'obtenir son diplôme !",1,0
+"Encore un bug en production, c'est épuisant.",0,1
+"Merci à tous pour les messages d'anniversaire, ça me touche !",1,0
+"Je regrette d'avoir acheté cet ordinateur, il surchauffe sans arrêt.",0,1
+"J'adore le nouveau café du centre-ville, super ambiance.",1,0
+"Une heure d'attente pour une table et le service reste lent.",0,1
+"Je viens de finir un marathon, meilleure sensation du monde !",1,0
+"Cette mise à jour a tout cassé, je suis furieux.",0,1
+"Reconnaissant d'avoir des collègues aussi géniaux.",1,0
+"La chambre d'hôtel était sale et sentait mauvais.",0,1
+"Je commence un nouveau travail le mois prochain, trop content !",1,0
+"Le support client m'a raccroché au nez deux fois aujourd'hui.",0,1
+"Quel magnifique coucher de soleil, la nature est incroyable.",1,0
+"Ras-le-bol de ce site qui plante sans arrêt.",0,1
+"Mon équipe a gagné le championnat, moment inoubliable !",1,0
+"Ce produit est cassé au bout de deux jours, argent gaspillé.",0,1
+"Vraiment apprécié cet atelier, j'ai beaucoup appris.",1,0
+"La livraison a trois semaines de retard, aucune excuse reçue.",0,1
+"Tellement chanceux d'avoir une famille aussi soutenante.",1,0
+"Cette appli plante à chaque fois que je l'ouvre.",0,1
+"Performance incroyable de l'orchestre ce soir, des frissons !",1,0
+"Je déteste quand les entreprises ignorent les retours clients.",0,1
+"Trop content de ma nouvelle coupe de cheveux, confiance boostée !",1,0
+"Le wifi est en panne depuis ce matin, très agaçant.",0,1
+"Bonne nouvelle, notre proposition a été acceptée !",1,0
+"Rien de pire qu'une réunion du lundi matin qui aurait pu être un mail.",0,1
+"Ce petit café a les meilleures pâtisseries de la ville.",1,0
+"Extrêmement mécontent du processus de remboursement.",0,1
+"Je viens d'adopter un chiot, mon cœur déborde !",1,0
+"Le concert a encore été reporté, la troisième fois cette année.",0,1
+"Vraiment impressionné par la rapidité du support technique.",1,0
+"Mon fournisseur internet m'a encore surfacturé ce mois-ci.",0,1
+"Magnifique randonnée ce matin, ça fait du bien.",1,0
+"Cette nouvelle politique n'a aucun sens et pénalise tout le monde.",0,1
+"Reconnaissant d'être en bonne santé et bien entouré.",1,0
+"La batterie de cet ordinateur tient à peine une heure, inacceptable.",0,1
+"Adoré chaque instant de la nouvelle saison, j'ai hâte de la suite !",1,0
+"Processus de paiement beaucoup trop long sur ce site, frustrant.",0,1
+"Formidable travail d'équipe sur ce projet !",1,0
+"Le bruit du chantier voisin est insupportable.",0,1
+"Inspiré après ce discours aujourd'hui.",1,0
+"Ces spams par mail n'en finissent pas, agaçant.",0,1
+"Meilleures vacances de ma vie, je planifie déjà les prochaines !",1,0
+"La description du produit était trompeuse, très déçu.",0,1
+"Merci aux bénévoles pour l'organisation de cet événement !",1,0
+"Ma commande est arrivée incomplète et le support ne répond pas.",0,1
+"Le temps est agréable aujourd'hui.",0,0
+"Je suis allé faire des courses ce matin.",0,0
+"La réunion est prévue à 15h.",0,0
+"J'ai regardé un documentaire sur l'espace hier soir.",0,0
+"Le train arrive au quai numéro quatre.",0,0
+"Il lit un livre sur l'histoire.",0,0
+"Le bureau sera fermé lundi.",0,0
+"Je dois finir mon rapport avant vendredi.",0,0
+"La conférence a été reportée à la semaine prochaine.",0,0
+"Elle travaille au service marketing.",0,0
