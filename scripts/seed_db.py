@@ -1,4 +1,4 @@
-"""Load data/seed_tweets.csv into the tweets table."""
+"""Charge data/seed_tweets.csv dans la table tweets."""
 import csv
 import os
 import sys
@@ -22,7 +22,7 @@ def seed():
         rows,
     )
     conn.commit()
-    print(f"Inserted {len(rows)} rows into tweets.")
+    print(f"{len(rows)} lignes insérées dans la table tweets.")
     cur.close()
     conn.close()
 
