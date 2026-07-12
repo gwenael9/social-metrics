@@ -1,0 +1,3 @@
+# Réentraînement hebdomadaire du modèle : tous les lundis à 3h du matin.
+# Installation : crontab -e   puis coller la ligne ci-dessous (adapter le chemin).
+0 3 * * 1 /chemin/vers/social-metrics/cron/retrain.sh
