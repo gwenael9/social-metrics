@@ -83,6 +83,17 @@ def evaluate():
 
     print(f"Matrices de confusion et rapport sauvegardés dans {REPORT_DIR}/")
 
+    return {
+        "n_train": len(X_train),
+        "n_val": len(X_val),
+        "cm_pos": cm_pos,
+        "cm_neg": cm_neg,
+        "report_pos": report_pos,
+        "report_neg": report_neg,
+        "img_pos": os.path.join(REPORT_DIR, "confusion_positive.png"),
+        "img_neg": os.path.join(REPORT_DIR, "confusion_negative.png"),
+    }
+
 
 if __name__ == "__main__":
     evaluate()
